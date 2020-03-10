@@ -1,3 +1,4 @@
-Selection Sort
-ID: 10675104
-Name : Andy Enoch Aladi
+Selection Sort and Bubble Sort
+
+# ID: 10675104
+# Name : Andy Enoch Aladi
